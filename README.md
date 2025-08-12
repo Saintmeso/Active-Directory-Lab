@@ -15,3 +15,7 @@ Practical Experience:
 - DNS troubleshooring: forward/reverse lookups, ping testing
 - DHCP scope creation, lease troubleshooting
 - Connectivity testing
+
+
+
+<img width="1101" height="574" alt="Active Directory Flow Chart 2" src="https://github.com/user-attachments/assets/cc7641d3-919b-4bd5-a906-e8721e833e2d" />
